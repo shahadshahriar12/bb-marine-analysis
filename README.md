@@ -126,8 +126,8 @@ Total records:
 ## 1. Clone repo
 
 ```bash
-git clone <your-repo-url>
-cd bb-ocean-analysis
+git clone https://github.com/shahadshahriar12/bb-marine-analysis.git
+cd bb-marine-analysis
 ```
 
 ## 2. Install dependencies
