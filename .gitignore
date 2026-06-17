@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data files (important!)
+# data/
+# *.nc
+
+# Outputs (optional to exclude)
+# outputs/
+
+# OS files
+.DS_Store
